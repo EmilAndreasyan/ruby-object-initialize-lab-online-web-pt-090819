@@ -11,5 +11,5 @@ class Dog
   end
 end
 
-lassie = Dog.new("Colin")
+lassie = Dog.new()
 lassie.name
